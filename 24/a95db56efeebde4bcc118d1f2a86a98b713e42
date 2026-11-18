@@ -1,0 +1,24 @@
+README.md
+  s_3a7b777878d405::t_1b5acea75b89a9 99
+metrics_graph_apps.go
+  s_3a7b777878d405::t_1b5acea75b89a9 19-22,69-77,103,120-121,182-189
+  s_3a7b777878d405::t_7fff06b73ac631 190
+metrics_graph_apps_test.go
+  s_3a7b777878d405::t_1b5acea75b89a9 1-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "24a95db56efeebde4bcc118d1f2a86a98b713e42",
+  "prompts": {},
+  "sessions": {
+    "s_3a7b777878d405": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ee48-92a8-7742-b924-32f471559141",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Florian Fiebig <florian.fiebig@mailbox.org>"
+    }
+  }
+}
